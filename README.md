@@ -18,3 +18,7 @@ Set `bookingUrl` in `site-config.js` to Holly's verified HTTPS booking installat
 - Feedback is excerpted from the supplied review screenshot, without invented names or ratings. Ellipsis marks an omitted passage.
 - Offers must be reviewed after January 2027. No treatment durations, deposit amounts, efficacy claims or suitability criteria have been invented.
 - Add the canonical URL, absolute social image URL and sitemap once the production hostname is confirmed.
+
+## Design direction
+
+See `docs/design-direction.md` for the reference patterns and explicit exclusion of arched/window framing. A treatment choice carries into the enquiry composer; the visitor reviews and sends the message in WhatsApp. No enquiry data is stored by the site.
